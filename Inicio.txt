@@ -1,0 +1,4 @@
+Criando o meu primeiro repositório local.
+git init
+git add
+git status
